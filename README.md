@@ -1,13 +1,9 @@
-# frontend developer
+Hi! I'm a frontend web developer and the creator of  
+[Tonemify](https://tonemify.vercel.app) — a theme generator for shadcn color palettes.
 
-Hi! I'm a frontend web developer and the creator of
-[Tonemify](https://tonemify.vercel.app) - theme generator for shadcn color
-palettes.
+**Tech Stack:** React · TypeScript · Next.js · Tailwind CSS
 
-**Stack:** React · TypeScript · Nextjs · TailwindCSS
+### Contact Me
 
-Contact me here:
-
-    - [muriithid05@gmail.com](mailto:muriithid05@gmail.com)
-
-    - [𝕏](https://x.com/messages/compose?recipient_id=1803751087003848704)
+- **Email:** [muriithid05@gmail.com](mailto:muriithid05@gmail.com)
+- **𝕏 (X DMs):** [Send a message](https://x.com/messages/compose?recipient_id=1803751087003848704)
